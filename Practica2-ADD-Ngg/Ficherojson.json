@@ -1,0 +1,13 @@
+{
+"Ruta1" : "C://DAM2" ,
+"Ruta2" : "C://DAM2//AccesoADatos" ,
+"Ruta3" : "C://DAM2//AccesoADatos//Ficheros" ,
+"Ruta4" : "C://DAM2//AccesoADatos//Ficheros//00-tmp//Texto-NGG" ,
+"Ruta5" : "C://DAM2//AccesoADatos//Ficheros//00-tmp//XML-NGG" ,
+"Ruta6" : "C://DAM2//AccesoADatos//Ficheros//Texto//backup" ,
+"Ruta7" : "C://DAM2//AccesoADatos//Ficheros//Texto//info//alumno" ,
+"Ruta8" : "C://DAM2//AccesoADatos//Ficheros//Texto//procesados" ,
+"Ruta9" : "C://DAM2//AccesoADatos//Ficheros//XML//backup" ,
+"Ruta10" : "C://DAM2//AccesoADatos//Ficheros//XML//info//alumno" ,
+"Ruta11" : "C://DAM2//AccesoADatos//Ficheros//XML//procesados"
+}
